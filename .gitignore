@@ -1,0 +1,5 @@
+# quantconnect default
+data/
+Library/
+tutorial/
+lean.json
